@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nivoe.csgad.com/bTD/sitemap.xml.gz
